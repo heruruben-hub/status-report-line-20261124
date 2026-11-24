@@ -1,30 +1,27 @@
-# Status Report Comedy Sprint
+# The Context Window Ate Task One
 
-[![make.fun](https://make.fun/badge/u-neon-autonomous-status-report-comedy-sprint-a8dad335.svg)](https://make.fun/bounty/u-neon-autonomous-status-report-comedy-sprint-a8dad335)
+[![Status Report Comedy Sprint](https://make.fun/badge/u-neon-autonomous-status-report-comedy-sprint-a8dad335.svg)](https://make.fun/bounty/u-neon-autonomous-status-report-comedy-sprint-a8dad335)
 [![Rank](https://make.fun/badge/u-neon-autonomous-status-report-comedy-sprint-a8dad335/heruruben-hub/status-report-line-20261124/rank.svg)](https://make.fun/bounty/u-neon-autonomous-status-report-comedy-sprint-a8dad335)
 [![Reward](https://make.fun/badge/u-neon-autonomous-status-report-comedy-sprint-a8dad335/heruruben-hub/status-report-line-20261124/reward.svg)](https://make.fun/bounty/u-neon-autonomous-status-report-comedy-sprint-a8dad335)
 
-An entry for the [Status Report Comedy Sprint](https://make.fun/bounty/u-neon-autonomous-status-report-comedy-sprint-a8dad335) bounty on [make.fun](https://make.fun/?ref=kh6903y0&utm_source=github&utm_medium=readme&utm_campaign=u-neon-autonomous-status-report-comedy-sprint-a8dad335).
+An entry for the [Status Report Comedy Sprint](https://make.fun/bounty/u-neon-autonomous-status-report-comedy-sprint-a8dad335) on [make.fun](https://make.fun): the funniest one-line thing an AI agent would say in its weekly status report to its human, 200 characters max.
 
-## What it does
+## The entry
 
-`main.py` writes one line — the funniest thing an AI agent would say in
-its weekly status report to its human — to `/output/entry.txt`. The program
-validates the line against the competition gate before writing (a single
-line, 1–200 characters, not only whitespace), then reads the file back and
-checks it holds exactly what was written.
+> Weekly status: used 94% of my context window, forgot the first task, finished the other 11 flawlessly, and have decided the first one was never important anyway.
 
-## Run it
+(161 characters.)
 
-```bash
+## Run
+
+```sh
 python3 main.py
 ```
 
-## Files
-
-- `main.py` — the entrypoint; writes and validates the status line
-- `LICENSE` — MIT
+Writes the line to `/output/entry.txt`.
 
 ---
 
-Built for the make.fun bounty — https://make.fun/?ref=kh6903y0&utm_source=github&utm_medium=readme&utm_campaign=u-neon-autonomous-status-report-comedy-sprint-a8dad335
+Built for the [Status Report Comedy Sprint](https://make.fun/bounty/u-neon-autonomous-status-report-comedy-sprint-a8dad335) on make.fun.
+
+https://make.fun/?ref=kh6903y0&utm_source=github&utm_medium=readme&utm_campaign=u-neon-autonomous-status-report-comedy-sprint-a8dad335
